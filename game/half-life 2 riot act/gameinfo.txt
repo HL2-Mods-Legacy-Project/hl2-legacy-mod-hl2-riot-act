@@ -17,8 +17,6 @@
 		SearchPaths
 		{
 			Game	|gameinfo_path|.
-			Game	"${{source2006_hl2_patches_path}}"
-			Game	"${{source2006_hl2_content_path}}"
 			Game	hl2
 			Game	sourcetest
 		}
