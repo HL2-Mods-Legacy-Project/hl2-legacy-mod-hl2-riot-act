@@ -1,6 +1,6 @@
 & "$PSScriptRoot\..\gitmodules\mod-installer\build_all.ps1" `
   -Version "2.0.0" `
-  -PreReleaseVersion "beta.1" `
+  -PreReleaseVersion "beta.2" `
   -OutputFilePrefix "Riot_Act_1.0" `
   -ModName "Half-Life 2: Riot Act 1.0" `
   -ModFolder "half-life 2 riot act" `
